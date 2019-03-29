@@ -55,3 +55,4 @@ Todo: comparatif plus complet ?
 * [Awesome Green IT](https://github.com/alvessteve/awesome-green-it)
 * [Awesome Numérique Responsable](https://github.com/cyrildotcc/awesome-numerique-responsable)
 * [GreenIT.fr](https://www.greenit.fr/)
+* [Guide de conversion numérique au low tech](http://gauthierroussilhe.com/fr/posts/convert-low-tech)
