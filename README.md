@@ -20,10 +20,6 @@ Principes
 * [Webperf, 41 critères](https://checklists.opquast.com/webperf/)
 * [Green IT, 72 bonnes pratiques](https://checklists.opquast.com/greenit/)
 
-## Analyse d'audience
-
-[Matomo](https://matomo.org/) est une alternative à Google Analytics en auto-hébergement. De plus, Matomo requiert qu'un léger paramétrage pour être exempté de consentement en conformité avec la règlementation, Cf [Cnil](https://www.cnil.fr/fr/solutions-pour-les-cookies-de-mesure-daudience).
-
 ## Certification et labels
 
 * [Norme ISO 14062](https://www.iso.org/fr/standard/33020.html) : Management environnemental -- Intégration des aspects environnementaux dans la conception et le développement de produit
@@ -41,10 +37,21 @@ Principes
 
 ## Hébergement
 
+* [Quels critères pour identifier un hébergeur « vert » ?](https://www.greenit.fr/2009/05/18/quels-criteres-pour-identifier-un-hebergeur-vert/)
+* [EU Code of Conduct for Data Centres – 10 years for improved energy efficiency](https://ec.europa.eu/jrc/en/news/eu-code-conduct-data-centres-10-years-improved-energy-efficiency)
 * [OVH](https://www.ovh.com/fr/apropos/green-it.xml) parvient à afficher un PUE moyen de 1,09.
-* Todo: comparatif plus complet ?
+* [Google Cloud zone europe-west1 installé en Belgique](https://sustainability.google/projects/belgium-solar/)
+* [Online](https://pue.online.net/fr)
+* [Scaleway](https://www.scaleway.com/pdf/iliad-dc3.pdf)
+
+Todo: comparatif plus complet ?
+
+## Analyse d'audience
+
+[Matomo](https://matomo.org/) est une alternative à Google Analytics en auto-hébergement. De plus, Matomo requiert qu'un léger paramétrage pour être exempté de consentement en conformité avec la règlementation, Cf [Cnil](https://www.cnil.fr/fr/solutions-pour-les-cookies-de-mesure-daudience).
 
 ## Autres ressources
 
 * [Awesome Green IT](https://github.com/alvessteve/awesome-green-it)
 * [Awesome Numérique Responsable](https://github.com/cyrildotcc/awesome-numerique-responsable)
+* [GreenIT.fr](https://www.greenit.fr/)
