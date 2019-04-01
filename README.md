@@ -19,6 +19,7 @@ Principes
 * [Opquast V3, 226 critères](https://checklists.opquast.com/fr/oqs-v3/)
 * [Webperf, 41 critères](https://checklists.opquast.com/webperf/)
 * [Green IT, 72 bonnes pratiques](https://checklists.opquast.com/greenit/)
+* [Les règles du green code label](https://label.greencodelab.org/green-code-label-detail/)
 
 ## Certification et labels
 
@@ -33,6 +34,7 @@ Principes
 * [ecoIndex](http://www.ecoindex.fr)
 * [Pingdom](https://tools.pingdom.com/)
 * [ecometer](http://www.ecometer.org/)
+* [Web energy archive](https://wea.greencodelab.org/fr/)
 * [Greenspector](https://greenspector.com)
 
 ## Hébergement
