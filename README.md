@@ -58,3 +58,9 @@ Todo: comparatif plus complet ?
 * [Awesome Numérique Responsable](https://github.com/cyrildotcc/awesome-numerique-responsable)
 * [GreenIT.fr](https://www.greenit.fr/)
 * [Guide de conversion numérique au low tech](http://gauthierroussilhe.com/fr/posts/convert-low-tech)
+
+## Collectifs
+
+* [CnumR - Collectif conception numérique responsable](https://collectif.greenit.fr/)
+* [Alliance Green IT](http://alliancegreenit.org)
+* [Green code lab](https://www.greencodelab.org/)
