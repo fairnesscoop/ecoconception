@@ -20,6 +20,7 @@ Principes
 * [Webperf, 41 critères](https://checklists.opquast.com/webperf/)
 * [Green IT, 72 bonnes pratiques](https://checklists.opquast.com/greenit/)
 * [Les règles du green code label](https://label.greencodelab.org/green-code-label-detail/)
+* [Réduire le poids des vidéos avec Handbrake](https://handbrake.fr/) - [source: Gauthier Roussilhe](http://gauthierroussilhe.com/fr/posts/convert-low-tech#video)
 
 ## Certification et labels
 
