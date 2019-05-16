@@ -37,6 +37,7 @@ Principes
 * [ecometer](http://www.ecometer.org/)
 * [Web energy archive](https://wea.greencodelab.org/fr/)
 * [Greenspector](https://greenspector.com)
+* Optimisation des images avec [Pageweight Imgix](https://pageweight.imgix.com/)
 
 ## Hébergement
 
