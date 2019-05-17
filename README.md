@@ -66,3 +66,10 @@ Todo: comparatif plus complet ?
 * [CnumR - Collectif conception numérique responsable](https://collectif.greenit.fr/)
 * [Alliance Green IT](http://alliancegreenit.org)
 * [Green code lab](https://www.greencodelab.org/)
+
+## Exemples sites low-tech
+
+* http://solar.lowtechmagazine.com/
+* https://bare.eco/
+* http://gauthierroussilhe.com/
+* https://sustywp.com/
