@@ -20,6 +20,7 @@ Principes
 * [Webperf, 41 critères](https://checklists.opquast.com/webperf/)
 * [Green IT, 72 bonnes pratiques](https://checklists.opquast.com/greenit/)
 * [Les règles du green code label](https://label.greencodelab.org/green-code-label-detail/)
+* [Utiliser police de caractères système](https://css-tricks.com/snippets/css/font-stacks/)
 
 ## Certification et labels
 
