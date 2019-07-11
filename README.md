@@ -51,6 +51,7 @@ Principes
 * [Quels critères pour identifier un hébergeur « vert » ?](https://www.greenit.fr/2009/05/18/quels-criteres-pour-identifier-un-hebergeur-vert/)
 * [EU Code of Conduct for Data Centres – 10 years for improved energy efficiency](https://ec.europa.eu/jrc/en/news/eu-code-conduct-data-centres-10-years-improved-energy-efficiency)
 * [OVH](https://www.ovh.com/fr/apropos/green-it.xml) parvient à afficher un PUE moyen de 1,09.
+* [Infomaniak, la charte écologique](https://www.infomaniak.com/fr/hebergeur-ecologique/charte-ecologique)
 * [Google Cloud zone europe-west1 installé en Belgique](https://sustainability.google/projects/belgium-solar/)
 * [Online](https://pue.online.net/fr)
 * [Scaleway](https://www.scaleway.com/pdf/iliad-dc3.pdf)
