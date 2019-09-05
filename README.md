@@ -5,7 +5,8 @@ Principes
 * Réduire fonctionnalités en amont, répondre exactement au besoin utilisateur.
 * Éviter over-ingeneering : réduire dépendances, abstractions inutiles et coûteuses.
 * Enlever le gras numérique : vidéos, images lourdes, trackers, trop de requêtes serveur, interfaces surchargées.
-* Veiller au performance
+* Veiller à l'efficience du service : utiliser le moins de ressources possibles pour obtenir la même qualité de services
+* Attention à ce que l'amélioration de la performance ne soit pas contre-productive et que cela ne mobile pas plus de ressources (CDN par exemple).
 * Réduire obsolescence des terminaux avec des apps et sites qui fonctionnent sur des anciens matériels
 * Réduire pour les utilisateurs le temps passé sur les apps et sites
 * Suppression données périmées ou trop anciennes
