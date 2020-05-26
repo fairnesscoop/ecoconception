@@ -70,6 +70,7 @@ Todo: comparatif plus complet ?
 * [GreenIT.fr](https://www.greenit.fr/)
 * [Guide de conversion numérique au low tech](http://gauthierroussilhe.com/fr/posts/convert-low-tech)
 * [La bibliographie Numérique Responsable de l'INR](https://www.zotero.org/groups/2401058/inr_public/library)
+* [Livre Blanc de l’action GreenConcept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf)
 
 ## Collectifs
 
