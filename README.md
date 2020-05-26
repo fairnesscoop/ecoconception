@@ -31,6 +31,8 @@ Principes
 
 ## Outils
 
+### Mesures
+
 * Panel Audit de Chrome
 * [web.dev](https://web.dev/)
 * [ecoIndex](http://www.ecoindex.fr)
@@ -41,9 +43,13 @@ Principes
 * [Web energy archive](https://wea.greencodelab.org/fr/)
 * [Greenspector](https://greenspector.com)
 * [Mobile Efficiency Index](https://mobile-efficiency-index.com/)
+* [Axe Developer Tools](https://addons.mozilla.org/fr/firefox/addon/axe-devtools/), accessibility auditing to the Firefox Developer Tools
+* [Carbonalyser](https://theshiftproject.org/carbonalyser-extension-navigateur/)
+
+### Optimisations
+
 * Optimisation des images avec [Pageweight Imgix](https://pageweight.imgix.com/)
 * [Réduire le poids des vidéos avec Handbrake](https://handbrake.fr/) - [source: Gauthier Roussilhe](http://gauthierroussilhe.com/fr/posts/convert-low-tech#video)
-* [Axe Developer Tools](https://addons.mozilla.org/fr/firefox/addon/axe-devtools/), accessibility auditing to the Firefox Developer Tools
 * [Remove unused css](https://unused-css.com/)
 * [W3C Markup Validation Service](https://validator.w3.org/)
 
@@ -74,7 +80,8 @@ Todo: comparatif plus complet ?
 
 ## Collectifs
 
-* [CnumR - Collectif conception numérique responsable](https://collectif.greenit.fr/)
+* [Institut Numérique Responsable](https://institutnr.org/)
+* [Collectif conception numérique responsable](https://collectif.greenit.fr/)
 * [Alliance Green IT](http://alliancegreenit.org)
 * [Green code lab](https://www.greencodelab.org/)
 
