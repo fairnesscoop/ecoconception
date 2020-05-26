@@ -69,6 +69,7 @@ Todo: comparatif plus complet ?
 * [Awesome Numérique Responsable](https://github.com/cyrildotcc/awesome-numerique-responsable)
 * [GreenIT.fr](https://www.greenit.fr/)
 * [Guide de conversion numérique au low tech](http://gauthierroussilhe.com/fr/posts/convert-low-tech)
+* [La bibliographie Numérique Responsable de l'INR](https://www.zotero.org/groups/2401058/inr_public/library)
 
 ## Collectifs
 
