@@ -1,6 +1,11 @@
 # Éco-conception
 
-Principes
+## Constats
+
+* [Empreinte environnementale du numérique mondial par greenit.fr](https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf) (pdf)
+* [Pour une sobriété numérique par le Shift Project](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/)
+
+## Principes éco-conception
 
 * Réduire fonctionnalités en amont, répondre exactement au besoin utilisateur.
 * Éviter over-ingeneering : réduire dépendances, abstractions inutiles et coûteuses.
