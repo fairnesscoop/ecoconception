@@ -1,4 +1,4 @@
-_**NOTE** : ce dépôt n'est plus actif. Pour une liste de ressources liées à l'éco-conception, voir [supertanuki/numeriqueEcoResponsable](https://github.com/supertanuki/numeriqueEcoResponsable)._
+_**NOTE** : ce dépôt n'est plus actif. Pour une liste de ressources liées à l'éco-conception numérique, voir [supertanuki/numeriqueEcoResponsable](https://github.com/supertanuki/numeriqueEcoResponsable)._
 
 ---
 
