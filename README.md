@@ -1,3 +1,7 @@
+_**NOTE** : ce dépôt n'est plus actif. Pour une liste de ressources liées à l'éco-conception, voir [supertanuki/numeriqueEcoResponsable](https://github.com/supertanuki/numeriqueEcoResponsable)._
+
+---
+
 # Éco-conception
 
 ## Constats
